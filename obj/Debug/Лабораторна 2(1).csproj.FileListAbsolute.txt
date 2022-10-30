@@ -1,0 +1,7 @@
+D:\Project\Visual Studio\Лабораторна 2(1)\bin\Debug\Лабораторна 2(1).exe.config
+D:\Project\Visual Studio\Лабораторна 2(1)\bin\Debug\Лабораторна 2(1).exe
+D:\Project\Visual Studio\Лабораторна 2(1)\bin\Debug\Лабораторна 2(1).pdb
+D:\Project\Visual Studio\Лабораторна 2(1)\obj\Debug\Лабораторна 2(1).csprojAssemblyReference.cache
+D:\Project\Visual Studio\Лабораторна 2(1)\obj\Debug\Лабораторна 2(1).csproj.CoreCompileInputs.cache
+D:\Project\Visual Studio\Лабораторна 2(1)\obj\Debug\Лабораторна 2(1).exe
+D:\Project\Visual Studio\Лабораторна 2(1)\obj\Debug\Лабораторна 2(1).pdb
